@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joel Rosa - Professional Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Joel Rosa</h1>
+    <p>Administrative Analyst | Civic Trust Director | Vice-President | Food Service Director</p>
+    <nav>
+      <ul>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#community">Community Involvement</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <div class="job">
+      <h3>Administrative Analyst - The City of Perth Amboy</h3>
+      <p><strong>2021-Present</strong></p>
+      <ul>
+        <li>Conducted SWOT assessments of municipal departments to improve operational efficiencies.</li>
+        <li>Implemented a city-wide database system to enhance public input and streamline operations.</li>
+        <li>Secured a $1.5M federal grant for library renovations, including a 20% matching contribution.</li>
+        <li>Managed library operations and oversaw renovation projects ensuring fiscal responsibility.</li>
+      </ul>
+    </div>
+    
+    <div class="job">
+      <h3>Civic Trust Director - The Citizens Campaign</h3>
+      <p><strong>2016-2021</strong></p>
+      <ul>
+        <li>Managed grassroots Civic Trust groups in major cities including Newark, Paterson, and Trenton.</li>
+        <li>Trained thousands of citizens in problem-solving approaches for local governance.</li>
+        <li>Organized forums and summits to address community issues and policy improvements.</li>
+      </ul>
+    </div>
+    <!-- Repeat the above structure for other positions -->
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Masters, Public Administration</strong> - Fairleigh Dickinson University (2020)</li>
+      <li><strong>B.A., Food Management & Nutrition</strong> - Montclair State University (2010)</li>
+      <li><strong>A.A.S., Business Administration in Hotel & Restaurant</strong> - Middlesex County College (2005)</li>
+      <li><strong>Certificate of Hospitality Management</strong> - Disney University (2004)</li>
+    </ul>
+  </section>
+
+  <section id="community">
+    <h2>Community Involvement</h2>
+    <ul>
+      <li>Chairman - Perth Amboy Redevelopment Agency</li>
+      <li>Steering Committee Member - Jersey Water Works</li>
+      <li>Board Member - Middlesex County Solid Waste Advisory Council</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Phone: 732-379-7555</p>
+    <p>Email: <a href="mailto:visitjoel@gmail.com">visitjoel@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/joel-rosa-21219611/" target="_blank">linkedin.com/in/joel-rosa-21219611/</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Joel Rosa. All Rights Reserved.</p>
+  </footer>
